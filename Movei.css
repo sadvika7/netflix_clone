@@ -1,0 +1,36 @@
+* {
+  background-color: transparent;
+}
+.im {
+  height: 80vh;
+  width: 60vh;
+}
+.di {
+  display: flex;
+  width: 170vh;
+  padding-left: 250px;
+  padding-top: 50px;
+}
+.div1 {
+  padding-top: 150px;
+  color: white;
+  padding-left: 20px;
+}
+span {
+  color: brown;
+  font-size: 18px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.bgc {
+  background-image: url("https://www.whats-on-netflix.com/wp-content/uploads/2022/11/netflix-titles-unavailable-in-ad-tier-2022-jpg.webp");
+  background-size: cover;
+  height: 750px;
+}
+center {
+  color: white;
+  font-size: 50px;
+}
+.movie_title {
+  font-size: 20px;
+  text-decoration: none;
+}

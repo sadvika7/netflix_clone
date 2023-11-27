@@ -1,0 +1,12 @@
+.posters {
+  height: 350px;
+  padding: 10px;
+}
+.movie_flex {
+  display: flex;
+}
+.movie_poster {
+  background-color: black;
+  color: white;
+  height: 740px;
+}

@@ -1,0 +1,40 @@
+.home_list {
+  background-color: black;
+}
+.banner {
+  background-color: black;
+}
+.nav_img {
+  width: 135px;
+  height: 40px;
+  margin-top: 5px;
+}
+.nav_list {
+  display: flex;
+  background-color: black;
+  height: 70px;
+  padding: 10px;
+}
+.nav_list1 {
+  margin-left: 20px;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  list-style: none;
+  text-decoration: dotted;
+  font-size: 20px;
+}
+.div_list {
+  display: flex;
+  margin-left: 50px;
+}
+.search {
+  margin-left: 650px;
+}
+.input {
+  border: 2px solid white;
+  color: white;
+}
+.button {
+  border: 2px solid white;
+  color: white;
+}
