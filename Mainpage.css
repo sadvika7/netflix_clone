@@ -1,0 +1,75 @@
+.maindiv {
+  background-image: url("https://repository-images.githubusercontent.com/299409710/b42f7780-0fe1-11eb-8460-e459acd20fb4");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 700px;
+  width: "100%";
+}
+ul {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  list-style: none;
+  position: absolute;
+  top: 30px;
+}
+.list {
+  position: absolute;
+  left: 1050px;
+  background-color: transparent;
+}
+.list1 {
+  position: absolute;
+  left: 1200px;
+  background-color: transparent;
+}
+.para {
+  position: absolute;
+  top: 300px;
+  left: 420px;
+  color: white;
+  background-color: transparent;
+}
+.article {
+  background-color: black;
+  width: 1512px;
+  color: white;
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 100px;
+  font-size: 25px;
+}
+.footer {
+  background-color: black;
+  height: 400px;
+  color: #808285;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding: 70px;
+}
+li {
+  padding: 10px;
+  list-style: none;
+  text-decoration-line: underline;
+}
+.p2 {
+  color: white;
+}
+h5 {
+  background-color: transparent;
+}
+.para1 {
+  background-color: transparent;
+}
+.form_email {
+  width: 575px;
+  background-color: bisque;
+  height: 40px;
+  border: none;
+  border-radius: 2px;
+}
+.form_submit {
+  width: 150px;
+  height: 40px;
+  background-color: red;
+  border: 8px solid red;
+}
